@@ -1,1 +1,1 @@
-# git-to-cursorai
+# git-to-cursorai 
